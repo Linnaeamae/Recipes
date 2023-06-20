@@ -11,26 +11,4 @@ selector{
     background-color: aliceblue;
 }
 
-body{
-    font-family:'Verdana, Geneva, Tahoma, sans-serif';
-}
 
-img{
-    width: 300;
-}
-
-ul{
-    list-style:disc;    
-}
-
-h1{
-    color: darkblue;
-}
-
-h2{
-    color: darkgreen;
-}
-
-.recipe-name{
-    font:800px;
-}

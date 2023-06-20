@@ -1,0 +1,38 @@
+*{
+    line-height:1.5;
+    background-color: aliceblue;
+    font-family:"Avantgarde", "Tex Gyre Adventor" serif;
+}
+
+.my-recipe{
+    
+    margin: auto;
+    align-content: center;
+    width: 500px;
+}
+.recipe-card{
+    padding: 24px;
+    
+    width:500px;
+}
+.recipe-card, h2, ol, ul, li, figure, figcaption{
+    background-color: antiquewhite;
+}
+
+h1{
+    color:darkgoldenrod;
+}
+
+h2{
+    color:cadetblue;
+}
+
+.intro{
+ margin-left:10px;
+ margin-right: 10px;
+}
+
+figure{
+    text-align:center;
+    padding:10px;
+}
